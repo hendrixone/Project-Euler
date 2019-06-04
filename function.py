@@ -1,6 +1,6 @@
 import math
 
-def primes(bound):
+def primes(bound, start=0):
     '''Generate all primes in range bound'''
     list = [True] * (bound + 1)
     list[0] ,list[1] = False, False
@@ -9,7 +9,7 @@ def primes(bound):
             for k in range(2, bound / i + 1):
                 list[i*k] = False
     
-    for i in range(len(list)):
+    for i in range(start, len(list)):
         if list[i]:
             yield i
 
