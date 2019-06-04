@@ -1,5 +1,5 @@
-package pu1_10;
-public class E04 {
+package problem1_15;
+public class Problem4 {
 
 	public static void main(String[] args) {
 		/*
