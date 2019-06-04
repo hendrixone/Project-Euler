@@ -15,6 +15,8 @@ def primes(bound, start=0):
 
 def is_prime(n):
     '''Return true is n is prime'''
+    if i <= 1:
+        break
     for i in range(2, int(math.sqrt(n) + 1)):
         if n % i == 0:
             return False
