@@ -1,6 +1,6 @@
 package problem1_15;
 
-public class  {
+public class Problem12 {
 
 	public static void main(String[] args) {
 		for(int i = 1, num = 0, count = 0;;i++) {
