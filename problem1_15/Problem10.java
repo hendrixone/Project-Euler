@@ -1,6 +1,6 @@
 package problem1_15;
 
-public class  {
+public class Problem10 {
 	
 	public static void main(String[] args) {
 		/*
