@@ -1,6 +1,6 @@
-package pu1_10;
+package problem1_15;
 
-public class E06 {
+public class Problem6 {
 	public static void main(String[] args) {
 		/*
 		The sum of the squares of the first ten natural numbers is,
