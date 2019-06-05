@@ -1,6 +1,6 @@
-package pu11_20;
+package problem1_15;
 
-public class E12 {
+public class  {
 
 	public static void main(String[] args) {
 		for(int i = 1, num = 0, count = 0;;i++) {
