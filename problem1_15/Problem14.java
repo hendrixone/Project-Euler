@@ -1,6 +1,6 @@
-package pu11_20;
+package problem1_15;
 
-public class E14 {
+public class Problem14 {
 
 	public static void main(String[] args) {
 		long max = 0;
