@@ -1,6 +1,6 @@
-package pu11_20;
+package problem1_15;
 
-public class E15 {
+public class Problem15 {
 
 	public static void main(String[] args) {
 		long grid[][] = new long[21][21];
