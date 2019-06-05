@@ -1,6 +1,6 @@
-package pu1_10;
+package problem1_15;
 
-public class E07 {
+public class Problem8 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
