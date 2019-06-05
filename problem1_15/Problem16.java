@@ -1,6 +1,6 @@
-package pu11_20;
+package problem1_15;
 
-public class E16 {
+public class Problem16 {
 
 	public static void main(String[] args) {
 		//创建容器以放置2的1000次方，101位数
