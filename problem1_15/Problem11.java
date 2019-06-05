@@ -1,6 +1,6 @@
-package pu11_20;
+package problem1_15;
 import java.io.*;
-public class E11 {
+public class  {
 	
 	public static void main(String[] args) {
 		//创建文件对象f
