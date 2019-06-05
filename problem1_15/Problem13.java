@@ -1,6 +1,6 @@
-package pu11_20;
+package problem1_15;
 import java.io.*;
-public class E13 {
+public class Probelm13 {
 
 	public static void main(String[] args) {
 		File f = new File("C:/Users/77431/Desktop/workspace/Project Euler/bin/resource/E13.txt");
